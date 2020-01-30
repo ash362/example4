@@ -1,0 +1,36 @@
+body{
+font-size:18pt;
+font-family:san-serif;
+}
+article{
+margin:20px;
+}
+section{
+margin-bottom:30px;
+}
+
+h2{
+color:#E60000;
+font-size:28pt;
+font-style:italic;
+font-weight:normal;
+margin-bottom:10px;
+}
+p{
+margin:0px 10px;
+line-height:1.6;
+text-align:justify;
+}
+fieldset{
+	width:450px;
+}
+a{
+	color:#000000;
+	text-decoration:none;
+	border:2px solid #000000;
+	back
+}
+a:hover{
+	color:#ffffff;
+	background-color:#000000;
+}
